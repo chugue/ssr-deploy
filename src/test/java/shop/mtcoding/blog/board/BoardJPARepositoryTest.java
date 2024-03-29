@@ -12,6 +12,7 @@ import shop.mtcoding.blog.user.User;
 import java.util.List;
 import java.util.Optional;
 
+
 @DataJpaTest
 public class BoardJPARepositoryTest {
 
